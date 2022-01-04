@@ -16,8 +16,9 @@ With the advance of IT storage, processing, computation, and sensing technologie
 
 After studying this course, the students will be able to
 
-1. Understand how business decisions can be optimized and competitive advantage created with Big Data Analytics
-2. Understanding the fundamentals of Data analytics
-3. Imparting the architectural concepts of Hadoop and introducing map reduce paradigm
-4. Ability to work with Hadoop, HDFS, Hive, & Pig
-5. Introduce programming tools PIG &amp; HIVE in Hadoop echo system
+1. Student will be able to identified and implement the basics of data structures like Linked list, stack, queue, set and map in Java.
+2. Student will be able to design the knowledge of big data analytics and implement different file management task in Hadoop.
+3. Student will be able to write or design Map Reduce Paradigm and develop data applications using variety of systems.
+4. Student will be able to work and perform different operations on data using Pig Latin scripts.
+5. Student will be able to work and apply different operations on relations and databases using Hive.
+
