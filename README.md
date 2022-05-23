@@ -1,4 +1,4 @@
-# Big-Data-Analytics-Lab_8CS4-01
+# Big-Data-Analytics_8CS4-01
 
 ## COURSE DESCRIPTION
 
